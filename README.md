@@ -1,5 +1,6 @@
 # simple-java-maven-app
 # this is a sample comment to see 'build triggers'
+# using terminal to make changes to trigger build 
 
 This repository is for the
 [Build a Java app with Maven](https://jenkins.io/doc/tutorials/build-a-java-app-with-maven/)
